@@ -6,12 +6,6 @@ A fully interactive bracket prediction app for the **FIFA World Cup 2026**, supp
 
 ---
 
-## 🌐 Live Demo
-
-[cemeren.dev](https://cemeren.dev)
-
----
-
 ## ✨ Features
 
 - **Step 1 — Group Stage**: Drag & drop to rank all 48 teams across 12 groups (A–L)
